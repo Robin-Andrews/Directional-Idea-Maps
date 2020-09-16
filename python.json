@@ -1,0 +1,54 @@
+{
+    "A": {
+        "factor": "Python is fun",
+        "target_node": "M"
+    },
+    "B": {
+        "factor": "Python code is clean and easy to work with",
+        "target_node": "B"
+    },
+    "C": {
+        "factor": "There are lots of awesome packages available for Python",
+        "target_node": "D"
+    },
+    "D": {
+        "factor": "Python is open source",
+        "target_node": "M"
+    },
+    "E": {
+        "factor": "Python is slower than some other languages",
+        "target_node": "F"
+    },
+    "F": {
+        "factor": "Python has relatively high memory usage",
+        "target_node": "E"
+    },
+    "G": {
+        "factor": "Python is not great for mobile development",
+        "target_node": "E"
+    },
+    "H": {
+        "factor": "Python is beginner friendly",
+        "target_node": "M"
+    },
+    "I": {
+        "factor": "Many college courses use Python to teach Computer Science",
+        "target_node": "B"
+    },
+    "J": {
+        "factor": "Python is used by Google and Netflix",
+        "target_node": "B"
+    },
+    "K": {
+        "factor": "Python has many applications in science",
+        "target_node": "B"
+    },
+    "L": {
+        "factor": "Python is great for web development",
+        "target_node": "C"
+    },
+    "M": {
+        "factor": "Python has a freindly and helpful communinty of users",
+        "target_node": "A"
+    }
+}
